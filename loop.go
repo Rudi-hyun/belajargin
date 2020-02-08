@@ -11,4 +11,9 @@ func main() {
 	if i == 5 {
 		break
 	}
+
+	for a = 5;a < 10 a++{
+		fmt.Println("No",a)
+	}
+
 }
